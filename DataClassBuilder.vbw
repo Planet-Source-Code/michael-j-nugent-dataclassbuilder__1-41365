@@ -1,0 +1,14 @@
+frmClassBuilder = 44, 44, 616, 417, Z, 88, 88, 595, 461, C
+clsComboList = 0, 0, 572, 373, 
+modUtilities = 66, 66, 573, 439, 
+clsError = 132, 132, 780, 505, 
+clsProcess = 22, 22, 529, 395, 
+MainMod = 176, 176, 883, 549, 
+clsFormUtilities = 88, 88, 671, 461, 
+clsFileOperations = 0, 0, 580, 330, C
+clsCommonDialog = 110, 110, 693, 483, 
+clsStatus = 44, 44, 624, 374, 
+frmSplash = 0, 0, 580, 330, , 22, 22, 633, 352, C
+clsDataAccess = 0, 0, 707, 373, 
+frmAbout = 88, 88, 668, 418, , 44, 44, 655, 374, C
+frmOval = 132, 132, 712, 462, , 66, 66, 677, 396, C
